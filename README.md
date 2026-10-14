@@ -23,7 +23,8 @@ Built with
 HTML5, CSS3, vanilla JavaScript, Canvas API
 
 Featured projects
-LunaFlow: multi-page wellness app front end with a glassmorphism look. https://mitchy25white.github.io/Assignment2UI/
+LunaFlow: multi-page wellness app front end with a glassmorphism look. 6
+https://mitchy25white.github.io/BSE-INTERNET/
 Gated Community Guest Monitoring System: Java and SQL Server visitor logging prototype built as my diploma project, now being extended for my final-year research. [add repo link]
 IconApp: Android registration screen built with Material Design 3. Live page
 Run locally
