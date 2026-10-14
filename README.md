@@ -1,65 +1,38 @@
-# 🌌 **MitchyDev Portfolio** 🌌 - Cyberpunk Edition
+Mitchelle Adhiambo Oloo | Portfolio
 
-```
-   ▄█    ▄   ▄███▄      ▄   ▄█▄    ▄████████ 
-  █▀ ▀▄  █ ▄ █▀   ▀ ▀▄   █ ▄▀   ▀  ███    ███ 
-  █▀   ▄▀█▀█ █▄▄    ▄▀█ █▀█▄▄    ███    ███ 
- ▄█▀   ▄▀█▀█ ▀▄   ▄▀█▀█▀█▀▄   ▄▀█▀███████▀  
-▀█▀   ▀  ▀▀    ▀█▀    ▀▀   ▀▀  ▀▀   ▀▀     v1.0
-     BSE-01-0150/2025 | Zetech University
-```
+A five-page personal portfolio built with plain HTML, CSS, and JavaScript (no frameworks).
 
-![Cyberpunk Portfolio Preview](https://via.placeholder.com/1200x600/0a0a2e/00d4ff?text=MitchyDev+Portfolio) *Neon particles + glitch magic*
+Live site: https://mitchy25white.github.io/Mitchy-s-portfolio/
 
-## 🚀 **Mitchelle Adhiambo Oloo** 
-**Software Engineer | Systems Architect | BSE Student**  
-Nairobi, Kenya | [LinkedIn](https://www.linkedin.com/in/mitchelle-adhiambo-oloo-1b0b4a1b6/) | [GitHub](https://github.com/Mitchy25white)
+About me
 
-> Crafting **secure, scalable** digital solutions at the intersection of code & infrastructure. From distributed systems to femtech apps – I build for the future.
+Software engineering student at Zetech University in Nairobi, Kenya, graduating in 2027. I build Java, SQL Server, Android, and web projects, and I'm currently learning cybersecurity and Unity game development. I'm looking for remote junior developer or internship roles.
 
-### ⚡ **Core Stack**
-| Category | Tech |
-|----------|------|
-| **Languages** | Java, Python, PHP, SQL, HTML5/CSS/JS |
-| **Infra/SysAdmin** | CCNA, Linux/Windows Servers |
-| **Web/Mobile** | WordPress, Android Studio, Git |
-| **Specialties** | Distributed Systems, SEO, Security Audits |
+Pages
 
-**Stats:** 7+ Languages | 20+ Projects | 5+ Yrs Exp | 3 Frameworks
+Home, About, Services, Gallery, Contact
 
-## 🌟 **Featured Projects**
-- **LunaFlow FemTech App** `[Live Demo](../assignment2.html/Index.html)`  
-  Multi-page wellness app w/ glassmorphism, audio integration, dark feminine theme.
-- **Gated Community Monitoring** ``https://github.com/Mitchy25white/Gated-Community-Guest-Monitoring-System.  
-  Java-based IoT security system.
-- **Portfolio v2.0** (this repo!)  
-  Cyberpunk particles, glitch typing, 3D tilt cards, lightbox gallery.
+Features
+Particle canvas background that reacts to the mouse
+Typing animation on headings
+3D hover effect on project and service cards
+Fullscreen lightbox image gallery
+Responsive layout using CSS Grid and Flexbox
+Built with
 
-## 🎨 **Unique Features**
-- **Particle Canvas BG** Mouse-attracted neon particles (100+ FPS)
-- **Glitch Typing** Orbitron font animations
-- **3D Tilt Cards** Hover physics on projects/services
-- **Responsive** Mobile-first, dark/light toggle ready
-- **Lightbox Gallery** Fullscreen image viewer
-- **Stats Counters** Scroll-triggered animations
+HTML5, CSS3, vanilla JavaScript, Canvas API
 
-## 🛠️ **Quick Start**
-```bash
-# Clone & open
+Featured projects
+LunaFlow: multi-page wellness app front end with a glassmorphism look. [add demo link]
+Gated Community Guest Monitoring System: Java and SQL Server visitor logging prototype built as my diploma project, now being extended for my final-year research. [add repo link]
+IconApp: Android registration screen built with Material Design 3. Live page
+Run locally
+bash
 git clone https://github.com/Mitchy25white/Mitchy-s-portfolio
-open index.html  # or live server
-```
+cd Mitchy-s-portfolio
+# open index.html in your browser
+Contact
+LinkedIn: https://www.linkedin.com/in/mitchelle-a-8bb3a1348
+Or use the contact page on the site
 
-**Tech:** Vanilla HTML/CSS/JS | No frameworks | Pure CSS Grid/Flexbox | Canvas API
-
-## 📱 **Live Demo**
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Mitchy25white/Mitchy-s-portfolio)
-
-## 🤝 **Let's Connect**
-- 💼 Services: Software Eng, SysAdmin, Mobile Dev, SEO Optimization
-- 📧 Contact via [contact.html](contact.html)
-- 🎵 Background audio: [`Cycle of Serenity`](assets/Cycle_of_Serenity.mp3)
-
-**Made with ❤️ | © 2026 Mitchelle Adhiambo Oloo**
-
-![Footer Glow](https://via.placeholder.com/800x100/1a0033/00bfff?text=©+MitchyDev+2026)
+© 2026 Mitchelle Adhiambo Oloo
