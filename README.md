@@ -23,7 +23,7 @@ Built with
 HTML5, CSS3, vanilla JavaScript, Canvas API
 
 Featured projects
-LunaFlow: multi-page wellness app front end with a glassmorphism look. [add demo link]
+LunaFlow: multi-page wellness app front end with a glassmorphism look. https://mitchy25white.github.io/Assignment2UI/
 Gated Community Guest Monitoring System: Java and SQL Server visitor logging prototype built as my diploma project, now being extended for my final-year research. [add repo link]
 IconApp: Android registration screen built with Material Design 3. Live page
 Run locally
@@ -32,7 +32,7 @@ git clone https://github.com/Mitchy25white/Mitchy-s-portfolio
 cd Mitchy-s-portfolio
 # open index.html in your browser
 Contact
-LinkedIn: https://www.linkedin.com/in/mitchelle-a-8bb3a1348
+LinkedIn: https://linkedin.com/in/mitchelle-a-8bb3a1348
 Or use the contact page on the site
 
 © 2026 Mitchelle Adhiambo Oloo
